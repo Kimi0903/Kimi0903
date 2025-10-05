@@ -1,10 +1,9 @@
-# 🌸 Hola, soy Kimberly Peña Munive
+🌸 ¡Hola! Soy Kimberly
 
-💻 Estudiante de **Desarrollo de Software Multiplataforma**  
-🚀 Apasionada por crear apps móviles, sitios web y soluciones tecnológicas.  
-🎮 Amante de los videojuegos, el diseño y la creatividad digital.  
-✨ En constante aprendizaje para convertirme en una desarrolladora full stack profesional.  
-📚 Actualmente explorando **React Native**, **Node.js** y **MongoDB**.
+💻 Desarrolladora en formación | Apasionada por crear apps, webs y experiencias digitales
+🎨 Me encanta combinar tecnología + creatividad para resolver problemas de forma innovadora
+🎮 Gamer & Geek: siempre inspirándome en los videojuegos para el diseño y UX
+🚀 Explorando tecnologías como React Native, Node.js y MongoDB
+✨ Objetivo: Convertirme en full stack developer y transformar ideas en soluciones reales
 
----
-🌟 _“El código también puede ser arte.”_
+💡 “Escribir código es mi forma de crear magia.”
