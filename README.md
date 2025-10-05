@@ -1,10 +1,12 @@
 # 🌸 ¡Hola! Soy Kimberly
 
-💻 **Desarrolladora en formación** | Apasionada por crear **apps, sitios web y soluciones digitales**  
-🎨 Me encanta combinar **tecnología + creatividad** para resolver problemas de manera innovadora  
-🎮 **Gamer & Geek**: siempre inspirándome en los videojuegos para diseño y UX  
-🚀 Explorando tecnologías como **React Native**, **Node.js** y **MongoDB**  
-✨ Mi objetivo: Convertirme en **full stack developer** y transformar ideas en soluciones reales  
+💻 **Desarrolladora en formación** | Apasionada por crear **aplicaciones móviles**, **sitios web** y **soluciones digitales** que impacten de manera real  
+🎨 Me encanta combinar **tecnología, diseño y creatividad** para resolver problemas de forma innovadora  
+🚀 Actualmente explorando tecnologías como **React Native**, **Node.js**, **Express**, **MongoDB** y **MySQL**  
+⚙ Experiencia trabajando con **backend, frontend y bases de datos**, además de integrar herramientas modernas como **Docker**, **Git** y **VS Code**  
+🖥 Familiarizada con **Windows 11** y con exploración previa en **Ubuntu**, adaptándome a distintos entornos de desarrollo  
+✨ Mi objetivo: Convertirme en **full stack developer profesional**, creando soluciones completas y funcionales desde la idea hasta la implementación
+
 
 
 ## 🛠 Tecnologías y herramientas
